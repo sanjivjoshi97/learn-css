@@ -5,6 +5,8 @@
 }
 
 .nav li {
-  display: block;
+  display: inline-block;
+  padding: 60px;
+  padding: 60px;
   font-size: 25px;
 }
