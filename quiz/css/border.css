@@ -1,7 +1,9 @@
 /* Add a border around the image */
 .image-with-border {
-    /* Border style: thick, solid line, color purple */
     border-radius: 5px; /* Optional: Add rounded corners for a softer look */
+    border-style: dotted;
+    border-width: thick;
+    border-color: purple;
   }
 
   .img-container {
